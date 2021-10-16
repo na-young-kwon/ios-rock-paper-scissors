@@ -244,3 +244,10 @@ func judgeWinner() {
 
 ## 브랜치 전략
 
+![브랜치 전략](https://user-images.githubusercontent.com/74536728/137581692-189df6a3-4676-4104-9824-44ecf338bebf.jpg)
+
+- main: 최종 코드를 합치는 브랜치
+- develop: 각 스텝을 완성할때 develop 브랜치로 merge
+- step 1: 스텝 1 구현사항 저장
+- step 2: 스텝 2 구현사항 저장
+- 평소에는 step 1, step 2 브랜치에서 개발 진행
